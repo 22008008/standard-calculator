@@ -147,7 +147,7 @@ Publish the website in the given URL.
 
 ## OUTPUT:
 
-![output]()
+![output](sricalc.png)
 
 ## Result:
 The program for designing a simple calculator using javascript is executed successfully
